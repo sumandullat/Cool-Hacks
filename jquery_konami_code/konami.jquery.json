@@ -1,0 +1,32 @@
+{
+    "name": "konami",
+    "title": "jQuery Konami",
+    "description": "Hmm, what should I say... not much! It is konami, read more on <a href='http://en.wikipedia.org/wiki/Konami_Code'>wikipedia</a>",
+    "keywords": [
+        "konami",
+        "konamicode",
+        "animateto",
+        "letters",
+        "keydown",
+        "keyup"
+    ],
+    "version": "0.0.2",
+    "author": {
+        "name": "Yannick Albert",
+        "email" : "mail@yckart.com",
+        "url": "https://github.com/yckart"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://yckart.com/mit/"
+        }
+    ],
+    "homepage": "http://yckart.github.com/jquery.konami.js",
+    "demo": "http://yckart.github.com/jquery.konami.js",
+    "docs": "https://github.com/yckart/jquery.konami.js",
+    "bugs": "https://github.com/yckart/jquery.konami.js/issues",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
