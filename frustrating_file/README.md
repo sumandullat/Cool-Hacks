@@ -1,0 +1,1 @@
+Execute `python never_close.py`, and get frustrated with a text file displaying a funny message, which stays open forever! The file never goes in the background and never closes! Have fun running this on friends' computers!
