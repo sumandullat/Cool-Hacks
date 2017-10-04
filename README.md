@@ -1,6 +1,7 @@
 # Cool-Hacks
 
-this repository is to hold cool tricky programs 
+## This repository is to hold *cool* tricky programs
+## Click to explore more
 - [key-logger](key_logger/)
 - [key-trouble](key_trouble/)
 - [downloadXKCD](downloadXKCD/)
