@@ -1,0 +1,2 @@
+1.Take a screen-shot of the desktop and set it as their desktop background image.
+2.Disable the top/bottom panels on their desktop to make this static desktop image looks like a real desktop.
